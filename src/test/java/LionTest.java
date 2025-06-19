@@ -58,3 +58,4 @@ public class LionTest {
         Assertions.assertEquals(expectedFood, actualFood);
     }
 }
+
